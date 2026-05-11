@@ -1,5 +1,5 @@
 # TA_Tool
-🗺️ Roadmap
+# Roadmap
 
  16-bit PNG / EXR 출력 지원 (8bit로는 종종 디테일 손실)
  True gradient noise (Perlin) 구현 추가
@@ -9,7 +9,7 @@
  Blender 플러그인 버전
 
 
-🛠️ Tech Stack
+# Tech Stack
 
 Python 3.10+
 NumPy — 핵심 텐서 연산
@@ -18,7 +18,7 @@ SciPy — Sobel 필터, Gaussian blur
 Gradio — 웹 UI
 
 
-📚 References
+# References
 
 Real-Time Rendering, 4th Ed. — Akenine-Möller, Haines, Hoffman et al.
 The Book of Shaders — https://thebookofshaders.com
@@ -26,8 +26,8 @@ ambientCG (free PBR textures, CC0) — https://ambientcg.com
 Catlike Coding shader tutorials — https://catlikecoding.com/unity/tutorials/
 
 
-📝 License
+# License
 MIT — 자유 사용. 학습 / 개인 프로젝트 / 상업적 사용 모두 허용.
 
 
-🎓 Technical Artist 지망생이 게임 그래픽 파이프라인의 본질을 코드로 이해하기 위해 만든 학습 프로젝트
+Technical Artist 지망생이 게임 그래픽 파이프라인의 본질을 코드로 이해하기 위해 만든 학습 프로젝트
